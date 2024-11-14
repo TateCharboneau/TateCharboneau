@@ -1,5 +1,3 @@
-
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -15,3 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TateCharboneau&theme=dark)](https://git.io/streak-stats)
