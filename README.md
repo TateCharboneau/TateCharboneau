@@ -14,10 +14,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
 
-<br>
-
 ### :fire: My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TateCharboneau&theme=dark&card_height=265)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TateCharboneau&theme=dark&card_height=270)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
