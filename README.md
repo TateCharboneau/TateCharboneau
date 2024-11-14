@@ -3,9 +3,9 @@ name: Tate Charboneau
 located_in: Boulder, Colorado
 education:
   [
-    university: University of Colorado Boulder
-    year: Sophomore
-    major: Computer Science
+    university = University of Colorado Boulder
+    year = Sophomore
+    major = Computer Science
   ]
 
 fields_of_interest:
@@ -24,13 +24,12 @@ looking_for:
 
 contact:
   [
-    email: "tatecharboneau@gmail.com"
-    linkedin: "https://linkedin.com/in/tatecharboneau"
+    email = "tatecharboneau@gmail.com"
+    linkedin = "https://linkedin.com/in/tatecharboneau"
   ]
 ```
 
-
-### :hammer_and_wrench: Languages and Tools:
+### :computer: Tech Stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
@@ -48,6 +47,6 @@ contact:
 
 ### :fire: My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TateCharboneau&theme=dark&card_height=230)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TateCharboneau&theme=dark&card_height=215)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TateCharboneau&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
