@@ -4,7 +4,7 @@
 # 🌟 About Me:
   🎓 Currently a sophomore at CU Boulder, diving deep into computer systems and software development.<br>
   💡 Building exciting projects from scratch, including a REDIS database in C++.<br>
-  🤖 Experimenting with cutting-edge AI and machine learning techniques, focused on improving user interactions and data-driven insights.<br>
+  🤖 Experimenting with cutting-edge AI and machine learning techniques, improving user interactions with data-driven insights.<br>
   📈 I love tackling complex problems, exploring advanced data structures, and creating scalable solutions.<br>
   🎸 Outside of tech, I'm an avid musician playing the Viola and Guitar.<br>
 
