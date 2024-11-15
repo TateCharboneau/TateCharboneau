@@ -7,7 +7,7 @@
 
 ## 📬 Get in Touch
 - Feel free to drop me an email or connect on LinkedIn!
-- I'm always open to collaborating on new projects or discussing tech and music!
+- I'm always open to collaborating on new projects or discussing tech!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatecharboneau@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatecharboneau/)
