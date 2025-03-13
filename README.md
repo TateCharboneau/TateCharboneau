@@ -3,9 +3,9 @@
 
 # 🌟 About Me:
   🎓 Currently a sophomore at CU Boulder, diving deep into computer systems and software development.<br>
-  💡 Building complex projects from scratch, including a REDIS database in C++.<br>
+  💡 Building complex projects from scratch, including a NoSQL database and a personal AI assistant.<br>
   📊 Passionate about data science, leveraging analytical skills to drive decision-making.<br>
-  🤖 Experimenting with cutting-edge AI and machine learning techniques, improving user interactions with data-driven insights.<br>
+  🤖 Experimenting with cutting-edge AI and machine learning techniques for L3Harris, improving cyber-security with data-driven insights.<br>
   📈 I love tackling complex problems, exploring advanced data structures, and creating scalable solutions.<br>
   🎸 Outside of tech, I'm an avid musician playing the Viola and Guitar.<br>
 
@@ -39,6 +39,6 @@
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 🔥 My Stats:
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TateCharboneau&theme=dark&card_height=215&card_width=490)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-roan-three.vercel.app?user=TateCharboneau&theme=dark&card_height=215&card_width=490)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TateCharboneau&layout=donut&theme=dark&hide=CMake)](https://github.com/anuraghazra/github-readme-stats)
 
