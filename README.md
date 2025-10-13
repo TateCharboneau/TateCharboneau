@@ -1,18 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&color=3595FFFF&pause=1000&width=900&height=60&lines=👋+Hi%2C+I'm+Tate+Charboneau;Computer+Science+Student+at+CU+Boulder;Software+Development%2C+AI%2FML%2C+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&color=3595FFFF&pause=1000&width=900&height=60&lines=👋+Hi%2C+I'm+Tate+Charboneau;CS+and+Astrophysics+Student+at+CU+Boulder;Space+Technologies%2C+AI%2FML%2C+Data+Science)](https://git.io/typing-svg)
 
 
 # 🌟 About Me:
   🎓 Currently a sophomore at CU Boulder studying Computer Science and Astrophysics.<br>
-  💡 Building flagship projects, including an autonomous satellite tasking system and a Julia black hole simulation.<br>
-  📊 Passionate about data science & algorithms, with a focus on turning complex problems into scalable solutions.<br>
-  🤖 Researched AI/ML for satellite cybersecurity with L3Harris, developing anomaly detection models for cyberattacks.<br>
+  🛰️ Contributing to embedded C flight-software for an NSF funded multi-CubeSat mission.<br>
+  💡 Building a high performance black hole simulation using numerical computation methods in Julia.<br>
+  🤖 Researched AI/ML for satellite cybersecurity with L3Harris, developing anomaly detection models.<br>
   📈 Interested in space technologies, AI/ML, and high-performance computing.<br>
-  🎸 Outside of tech, I play viola and guitar, and enjoy creative problem-solving across disciplines.<br>
+  🎸 Outside of tech, I play viola and guitar and enjoy slacklining.<br>
 
 ## 📧 Get in Touch:
 - Feel free to drop me an email or connect on LinkedIn! <br>
 - I'm always open to collaborating on new projects or discussing tech!
-  
+
 <div style="margin: 20px;"> 
 
   [![LinkedIn](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png)](https://www.linkedin.com/in/tatecharboneau/) &nbsp;
@@ -22,9 +22,9 @@
 
 ## 💻 Tech Stack:
   [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+  [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
   [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-  [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
